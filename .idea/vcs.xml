@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="C:\Users\JongHee\Downloads\paho.mqtt.android-master\paho.mqtt.android-master\Study_app\Study_app" vcs="Git" />
+    <mapping directory="C:\Users\JongHee\Downloads\paho.mqtt.android-master\paho.mqtt.android-master\Study_app\joymap" vcs="Git" />
   </component>
 </project>
