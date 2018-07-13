@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$USER_HOME$/AndroidStudioProjects/Study_app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="C:\Users\JongHee\Downloads\paho.mqtt.android-master\paho.mqtt.android-master\Study_app\Study_app" vcs="Git" />
+    <mapping directory="C:\Users\JongHee\Downloads\paho.mqtt.android-master\paho.mqtt.android-master\Study_app\cerule-stream" vcs="Git" />
+    <mapping directory="C:\Users\JongHee\Downloads\paho.mqtt.android-master\paho.mqtt.android-master\Study_app\fff" vcs="Git" />
     <mapping directory="C:\Users\JongHee\Downloads\paho.mqtt.android-master\paho.mqtt.android-master\Study_app\joymap" vcs="Git" />
+    <mapping directory="C:\Users\JongHee\Downloads\paho.mqtt.android-master\paho.mqtt.android-master\Study_app\qwe" vcs="Git" />
   </component>
 </project>
